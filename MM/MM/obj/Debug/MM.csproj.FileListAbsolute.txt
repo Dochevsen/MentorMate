@@ -1,0 +1,7 @@
+C:\Users\Gogo\source\repos\MM\MM\bin\Debug\MM.exe.config
+C:\Users\Gogo\source\repos\MM\MM\bin\Debug\MM.exe
+C:\Users\Gogo\source\repos\MM\MM\bin\Debug\MM.pdb
+C:\Users\Gogo\source\repos\MM\MM\obj\Debug\MM.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\source\repos\MM\MM\obj\Debug\MM.csproj.CoreCompileInputs.cache
+C:\Users\Gogo\source\repos\MM\MM\obj\Debug\MM.exe
+C:\Users\Gogo\source\repos\MM\MM\obj\Debug\MM.pdb
